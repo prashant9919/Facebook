@@ -1,0 +1,190 @@
+body{
+	background:linear-gradient(to bottom right,white,#bcbdc4);
+    height:750px;}
+
+#link:hover{
+	color:#367cc2;
+}
+	
+.headerx{
+    
+    color:white;
+    
+    font-family:verdana;
+    -webkit-box-shadow: 0 3px 8px rgba(0,0,0,.25);
+    }
+
+
+.header{
+    position:absolute;
+    height:85px;
+    width:100%;
+    background:#4267b2;
+    color:white;
+    z-index:1;
+    font-family:verdana;}
+
+	a{
+		text-decoration:none;
+		color:#367cc2;
+	}
+
+.fontmain{
+	position:absolute;
+	color:white;
+	font-size:38px;
+	font-weight:bold;
+    text-decoration:none;
+    left:250px;
+    top:1px;
+	padding-bottom:19px;
+	margin-top:10px;
+	padding-right:90%;}
+
+	
+
+.font{
+    font-size:14px;
+    font-family:none;
+    }
+
+
+
+#form1{
+	left:750px;
+	top:7px;
+	}
+
+#form2{
+	left:950px;
+	top:7px;
+
+    text-decoration:none;}
+
+.submit1{
+	color:white;
+	font-family:Arial;
+	border:3px;
+	border-color:black;
+	left:1150px;
+	top:37px;
+	background:#4267b2;
+	position:absolute;
+	z-index:20;
+	height:22px;
+	width:38px;
+    cursor:pointer;
+    }
+
+
+.img1{
+	padding-top:100px;
+	left:25px;
+	}
+
+.bodyx{
+	position:absolute;
+	top:100px;
+	width:100%;
+	height:645px;
+
+    }
+	
+	
+#font2{
+	top:20px;
+	left:25px;
+	font-size:25px;
+	color:black;
+	width:550px;
+    font-family:Arial;
+    }
+
+
+#font3{
+	top:20px;
+	left:730px;
+	font-size:35px;
+	color:black;
+	width:600px;
+    font-family:Georgia;
+    } 
+
+
+#font4{
+	top:70px;
+	left:733px;
+	font-size:20px;
+	color:black;
+	width:600px;
+    font-family:verdana;
+    }
+
+#form3{
+	top:150px;
+	left:733px;
+	font-size:20px;
+	color:black;
+	width:450px;
+    font-family:verdana;
+	height:495px;
+	}
+
+#namebox{
+    width:220px;
+    font-size:20px;	
+    height:41px;
+    border-radius:5px/5px;
+    background:white;
+    padding:20px;
+	margin-bottom:10px;
+	margin-right:5px
+    }
+
+#mailbox{
+    width:440px;
+    font-size:20px;	
+    height:41px;
+    border-radius:5px/5px;
+    background:white;
+    padding:10px;
+	margin-bottom:10px;
+    }
+
+.text{
+	font-size:11px;
+    }
+.text2{
+	font-size:14px;
+    }
+.text4{
+	font-size:15px;
+    }
+.button2{
+	color:white;
+	width:180px;
+    font-size:20px;	
+    height:50px;
+    border-radius:10px/10px;
+    background:green;
+    left:730px;
+    top:625;
+    cursor:pointer;
+    outline:none;
+    }
+
+#bottom{	
+   
+	margin-left:200px;
+	margin-right:200px;
+	margin-bottom:20px;
+	border-radius:10px;
+	margin-top:40px;
+	font-size:100%;
+	clear:both;
+   }
+#bottom:hover{
+	color:skyblue;
+   }
+
+
